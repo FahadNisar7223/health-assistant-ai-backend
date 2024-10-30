@@ -1,4 +1,4 @@
-The backend of the project is in fast api
+The backend of the project is in fast api,
 
 ##install the requirements
 
@@ -13,5 +13,5 @@ python -m venv venv
 To activate your virtual environment for your FastAPI backend, you can use the following command:
 venv\Scripts\activate
 
- ##project run command
+ ##project run command:
 fastapi dev main.py  
